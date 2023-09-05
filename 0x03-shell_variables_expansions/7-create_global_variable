@@ -1,2 +1,2 @@
 #!/bin/bash
-expirt BEST=School
+export BEST=School
